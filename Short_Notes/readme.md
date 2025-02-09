@@ -1,4 +1,4 @@
-### 1.To check tha database
+### 1.To check the database
 ```
 show databases;
 ```
